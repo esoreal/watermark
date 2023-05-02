@@ -27,3 +27,13 @@ First of all when using it make sure to put the module at line 1 where everythin
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/esoreal/watermark/main/source.lua'))()
 ```
+The loadstring loads the module.
+
+To load the watermark module you'll have to load a function
+
+```lua
+WatermarkLibrary:Load()
+```
+
+This set's up the watermark module and needs to be documented to begin.
+
