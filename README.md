@@ -16,4 +16,4 @@ this module is also open source!
 
 # 🔥 Documenting
 
-** You could also use the source to set it up, but could be more complicated. ** 
+**You could also use the source to set it up, but could be more complicated.** 
