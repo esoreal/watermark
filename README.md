@@ -20,3 +20,10 @@ this module is also open source!
 
 
 ![Preview image how it would look like..](https://cdn.discordapp.com/attachments/1023145747035725824/1102487125569581166/image.png)
+
+
+First of all when using it make sure to put the module at line 1 where everything start's.
+
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/esoreal/watermark/main/source.lua'))()
+```
