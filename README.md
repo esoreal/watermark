@@ -37,3 +37,35 @@ WatermarkLibrary:Load()
 
 This set's up the watermark module and needs to be documented to begin.
 
+# ✍️ Using it
+
+To use this watermark module theres a simple argument (That's what i like to call it.) to use it.
+
+```lua
+CreateWatermark(string, value)
+```
+
+Please do mention that you can use custom symbols such as
+
+```lua
+local con = "/"
+local plus = "+"
+```
+
+To change the color you may set up a function to change the value of the color as it settted up with Color3.new(color;)
+
+```lua
+function Color()
+   Accent.Color = Color3.fromRGB(colorRGB) --// changing the color
+end
+```
+
+To change the position that's pretty much the same.
+
+```lua
+function Pos()
+   WatermarkFrame.Position = Vector;
+end
+```
+
+That's pretty much it!
