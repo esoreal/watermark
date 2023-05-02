@@ -19,4 +19,4 @@ this module is also open source!
 ** You could also use the source by clicking [here](https://pages.github.com/). to set it up, but could be more complicated. ** 
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://cdn.discordapp.com/attachments/1023145747035725824/1102487125569581166/image.png))
+![Preview image how it would look like..](https://cdn.discordapp.com/attachments/1023145747035725824/1102487125569581166/image.png)
